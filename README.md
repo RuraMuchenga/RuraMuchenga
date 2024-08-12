@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a software developer based in Dubai, UAE. I love two things in my life: Coding and Working out in the gym. When I am not coding then im in the gym and vice versa of course, cause you know I am not a robot.
 
-🔧 Skills
+## 🔧 Skills
 Languages & Frameworks: ReactJS, SolidJS, JavaScript, Typescript, Python, C, C#, Dart, Flutter, Node.js, CSS, HTML5
 Backend Technologies: FastAPI, Django, NestJS, SQL, NoSQL, MongoDB, CockroachDB
 Tools & Platforms: Git, Docker, Figma, Unity3D, ROS

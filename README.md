@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a software developer based in Dubai, UAE. I lo
 - AirPiano: Fun little machine which generates music from the air bridging the gap between music and technology people of all ages can use. Created using an Arduino Uno, an ultrasonic distance sensor, some LED lights, and a passive buzzer. Additionally, using a dash of JavaScript, aided by Socket.IO and a ThingSpeak channel, the physical piano connects to a web interface, where one can visualize and log musical events as well as maintain a suitable database
 - iFit App: This mobile application complements a smartwatch by providing additional features and functionalities, such as enabling users to connect with a supportive fitness 
 community, share achievements, and access guidance and advice from the community. Developed using Flutter, Firebase Firestore, Arduino ide,Python - Flask, Matplotlib, Pandas
-
+- Customer Churn Prediction: This project involves predicting customer churn using machine learning techniques. It includes generating synthetic customer data, performing exploratory data analysis (EDA), preprocessing the data, training machine learning models, and making predictions. The goal is to identify key factors contributing to churn and recommend personalized retention strategies.
 
 
 ## 🎓 Education

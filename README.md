@@ -1,6 +1,6 @@
 ## Hi there! Im Ruramai Muchenga👋
 
-Welcome to my GitHub profile! I'm a software developer based in Dubai, UAE. I love two things in my life: Coding and Working out in the gym. When I am not coding then im in the gym and vice versa.
+Welcome to my GitHub profile! I'm a software developer. I love two things in my life: Coding and Working out in the gym. When I am not coding then im in the gym and vice versa.
 
 ## 🔧 Skills
 - Languages & Frameworks: ReactJS, SolidJS, JavaScript, Typescript, Python, C, C#, Dart, Flutter, Node.js, CSS, HTML5
